@@ -36,8 +36,31 @@ a {
     background: #1F2937;
 }
 
+.title {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
 .section-three {
     background: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+    font-style: italic;
 }
 
 .modal {
