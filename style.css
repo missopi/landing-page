@@ -4,3 +4,14 @@ body {
     background: rgb(255, 255, 255);
 }
 
+.header {
+    background: #1F2937;
+}
+
+.header .logo {
+    color: #F9FAF8;
+}
+
+.header .links {
+    color: #E5E7EB;
+}
