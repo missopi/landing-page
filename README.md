@@ -1,1 +1,1 @@
-# landing-page
+Create entire webpage from scratch for Odin Project 'Landing Page' using HTML and CSS.
