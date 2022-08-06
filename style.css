@@ -30,5 +30,20 @@ a {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
+}
 
+.section-one {
+    background: #1F2937;
+}
+
+.section-three {
+    background: #E5E7EB;
+}
+
+.modal {
+    background: #3882F6;
+}
+
+.footer {
+    background: #1F2937;
 }
