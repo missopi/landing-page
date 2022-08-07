@@ -78,8 +78,10 @@ button {
 .modal {
     background: #3882F6;
     margin: 100px 150px;
-    padding: 50px;
-    border-radius: 25px;
+    padding: 50px 150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .action {
