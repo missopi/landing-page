@@ -34,6 +34,19 @@ a {
 
 .section-one {
     background: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 100px;
+    
+}
+
+.section-one img {
+    color: #E5E7EB;
+    text-align: center;
+    background-color: #888888;
+    width: 800px;
+    height: 300px;
+    border-radius: 10px;
 }
 
 .title {
