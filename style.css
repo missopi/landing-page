@@ -70,12 +70,18 @@ button {
     color: #1F2937;
     font-weight: lighter;
     font-style: italic;
+    padding-left: 200px;
+    padding-top: 60px;
+    padding-right: 200px;
 }
 
 .author {
     font-size: 24px;
     color: #1F2937;
     font-weight: bold;
+    text-align: right;
+    padding-right: 200px;
+    padding-bottom: 60px;
 }
 
 .modal {
