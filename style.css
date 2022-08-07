@@ -77,8 +77,9 @@ button {
 
 .modal {
     background: #3882F6;
-    margin: 150px;
+    margin: 100px 150px;
     padding: 50px;
+    border-radius: 25px;
 }
 
 .action {
