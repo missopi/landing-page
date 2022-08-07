@@ -70,9 +70,9 @@ button {
     color: #1F2937;
     font-weight: lighter;
     font-style: italic;
-    padding-left: 200px;
+    padding-left: 225px;
     padding-top: 60px;
-    padding-right: 200px;
+    padding-right: 225px;
 }
 
 .author {
@@ -80,14 +80,14 @@ button {
     color: #1F2937;
     font-weight: bold;
     text-align: right;
-    padding-right: 200px;
+    padding-right: 225px;
     padding-bottom: 60px;
 }
 
 .modal {
     background: #3882F6;
     margin: 100px 100px;
-    padding: 60px 100px;
+    padding: 60px 125px;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
