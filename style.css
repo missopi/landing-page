@@ -63,6 +63,12 @@ button {
     font-style: italic;
 }
 
+.author {
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: bold;
+}
+
 .modal {
     background: #3882F6;
 }
