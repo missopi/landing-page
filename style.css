@@ -44,8 +44,8 @@ a {
     color: #E5E7EB;
     text-align: center;
     background-color: #888888;
-    width: 425px;
-    height: 220px;
+    width: 500px;
+    height: 260px;
     border-radius: 10px;
     border: 3px solid #F9FAF8;
 }
@@ -55,14 +55,14 @@ a {
     font-size: 48px;
     font-weight: bolder;
     width: 400px;
-    padding-bottom: 5px;
+    padding-bottom: 20px;
 }
 
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
     width: 450px;
-    padding-bottom: 15px;
+    padding-bottom: 40px;
 }
 
 button {
@@ -80,7 +80,7 @@ button {
 }
 
 .section-two {
-    padding: 40px 100px;
+    padding: 60px 100px;
     padding-bottom: 100px;
 }
 
@@ -122,7 +122,7 @@ img {
     font-weight: lighter;
     font-style: italic;
     padding-left: 225px;
-    padding-top: 60px;
+    padding-top: 100px;
     padding-right: 225px;
 }
 
@@ -132,7 +132,7 @@ img {
     font-weight: bold;
     text-align: right;
     padding-right: 225px;
-    padding-bottom: 60px;
+    padding-bottom: 100px;
 }
 
 .modal {
