@@ -77,6 +77,8 @@ button {
 
 .modal {
     background: #3882F6;
+    margin: 150px;
+    padding: 50px;
 }
 
 .action {
